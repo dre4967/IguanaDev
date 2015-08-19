@@ -10,7 +10,7 @@
    <from_http
       type="mapper"
       guid="3B2EDA91AF193D49EADF38FB512DF155"
-      commit_id="8502c672c21155fcc07e056cb006fdf53b910fcf"
+      commit_id="6cb43c5f5e037baebb6d8f684992ad28a68bf5dc"
       commit_comment="Committing translator data for imported channel(s)."
       mapper_url_path="lookup"/>
    <message_filter

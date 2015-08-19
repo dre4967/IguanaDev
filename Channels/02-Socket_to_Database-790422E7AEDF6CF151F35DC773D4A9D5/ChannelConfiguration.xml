@@ -7,7 +7,7 @@
    use_message_filter="true">
    <to_mapper
       guid="06C515D63223ADCE8D794A5CE760DE3C"
-      commit_id="8502c672c21155fcc07e056cb006fdf53b910fcf"
+      commit_id="6cb43c5f5e037baebb6d8f684992ad28a68bf5dc"
       commit_comment="Committing translator data for imported channel(s).">
       <dequeue_list>
          <dequeue
@@ -32,7 +32,7 @@
       error_handling="0"
       use_translator_filter="true"
       translator_guid="24E2AC9DE609BD620C44F2AB7685D153"
-      translator_commit_id="8502c672c21155fcc07e056cb006fdf53b910fcf"
+      translator_commit_id="6cb43c5f5e037baebb6d8f684992ad28a68bf5dc"
       translator_commit_comment="Committing translator data for imported channel(s).">
    </message_filter>
 </channel>

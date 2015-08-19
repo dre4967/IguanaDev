@@ -59,7 +59,7 @@
       error_handling="0"
       use_translator_filter="true"
       translator_guid="1A45979BAA798DAD9FCDE25CFDB28D28"
-      translator_commit_id="8502c672c21155fcc07e056cb006fdf53b910fcf"
+      translator_commit_id="6cb43c5f5e037baebb6d8f684992ad28a68bf5dc"
       translator_commit_comment="Committing translator data for imported channel(s).">
    </message_filter>
 </channel>
